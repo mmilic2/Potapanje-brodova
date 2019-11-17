@@ -1,0 +1,31 @@
+﻿  Programiranje2.cpp
+  Funkcije.cpp
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(68): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(69): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(76): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(77): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(84): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(85): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(92): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(93): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(108): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(109): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(115): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(116): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(122): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(123): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(129): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(130): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(142): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(151): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(152): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(161): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(162): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(171): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(172): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(181): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(182): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(200): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+c:\users\marko\source\repos\programiranje2\programiranje2\funkcije.cpp(239): warning C4715: 'provjera': not all control paths return a value
+  Programiranje2.vcxproj -> C:\Users\Marko\source\repos\Programiranje2\Debug\Programiranje2.exe
